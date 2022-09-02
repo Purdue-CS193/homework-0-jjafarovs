@@ -1,4 +1,8 @@
 ## Welcome to GitHub Pages
+# Javad Jafarov's First CS193 Homework
+
+- Fun class with amazing jokes
+- Leaning fundamentals of Terminal, which is an essential skill
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
